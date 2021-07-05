@@ -1,0 +1,15 @@
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfoInputs.cache
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfo.cs
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+D:\kzcode\dotnet-training\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.deps.json
+D:\kzcode\dotnet-training\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.dll
+D:\kzcode\dotnet-training\MyMusic.Core\bin\Debug\net5.0\ref\MyMusic.Core.dll
+D:\kzcode\dotnet-training\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.pdb
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\staticwebassets\MyMusic.Core.StaticWebAssets.Manifest.cache
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\staticwebassets\MyMusic.Core.StaticWebAssets.xml
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\scopedcss\bundle\MyMusic.Core.styles.css
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.RazorTargetAssemblyInfo.cache
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.dll
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\ref\MyMusic.Core.dll
+D:\kzcode\dotnet-training\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.pdb
